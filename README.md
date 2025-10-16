@@ -11,7 +11,7 @@
 
 *A simple, Bisaya-based programming language for learning and calculations*
 
-[Download Latest Release](https://github.com/YOUR_USERNAME/bai-plus-plus/releases/latest) • [View Samples](#sample-programs) • [Documentation](#documentation)
+[Download Latest Release](https://github.com/60hzpc/bai-plus-plus/releases/latest) • [View Samples](#sample-programs) • [Documentation](#documentation)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 **For Users (No Programming Experience Needed):**
 
-1. Go to [Releases](https://github.com/YOUR_USERNAME/bai-plus-plus/releases/latest)
+1. Go to [Releases](https://github.com/60hzpc/bai-plus-plus/releases/latest)
 2. Download `BaiPlusPlus.exe`
 3. Download `sample_programs.zip` (optional but recommended)
 4. Double-click `BaiPlusPlus.exe` to start coding!
@@ -63,7 +63,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/bai-plus-plus.git
+git clone https://github.com/60hzpc/bai-plus-plus.git
 cd bai-plus-plus
 
 # Run the IDE
@@ -239,7 +239,7 @@ Perfect for:
 
 We welcome contributions! Here's how you can help:
 
-1. **Report Bugs** - Found an issue? [Open an issue](https://github.com/YOUR_USERNAME/bai-plus-plus/issues)
+1. **Report Bugs** - Found an issue? [Open an issue](https://github.com/60hzpc/bai-plus-plus/issues)
 2. **Suggest Features** - Have an idea? We'd love to hear it!
 3. **Submit Pull Requests** - Improve the code
 4. **Create Sample Programs** - Share your Bai++ creations
@@ -314,7 +314,7 @@ This is normal for unsigned executables.
 - Check if antivirus is blocking it
 - Make sure you're on Windows
 
-[More troubleshooting →](https://github.com/YOUR_USERNAME/bai-plus-plus/wiki/Troubleshooting)
+[More troubleshooting →](https://github.com/60hzpc/bai-plus-plus/wiki/Troubleshooting)
 
 ---
 
@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created with ❤️ by **[Your Name]**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@60hzpc](https://github.com/60hzpc)
 - Email: your.email@example.com (optional)
 
 ---
@@ -348,9 +348,9 @@ Created with ❤️ by **[Your Name]**
 Need help? Have questions?
 
 - 📖 [Read the Documentation](#documentation)
-- 🐛 [Report a Bug](https://github.com/YOUR_USERNAME/bai-plus-plus/issues)
-- 💡 [Request a Feature](https://github.com/YOUR_USERNAME/bai-plus-plus/issues)
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/bai-plus-plus/discussions)
+- 🐛 [Report a Bug](https://github.com/60hzpc/bai-plus-plus/issues)
+- 💡 [Request a Feature](https://github.com/60hzpc/bai-plus-plus/issues)
+- 💬 [Discussions](https://github.com/60hzpc/bai-plus-plus/discussions)
 
 ---
 
@@ -366,10 +366,10 @@ If you find Bai++ helpful, please consider:
 
 ## 📈 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/bai-plus-plus?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/bai-plus-plus?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/bai-plus-plus)
-![GitHub downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/bai-plus-plus/total)
+![GitHub stars](https://img.shields.io/github/stars/60hzpc/bai-plus-plus?style=social)
+![GitHub forks](https://img.shields.io/github/forks/60hzpc/bai-plus-plus?style=social)
+![GitHub issues](https://img.shields.io/github/issues/60hzpc/bai-plus-plus)
+![GitHub downloads](https://img.shields.io/github/downloads/60hzpc/bai-plus-plus/total)
 
 ---
 
@@ -388,10 +388,10 @@ If you find Bai++ helpful, please consider:
 ## 🔗 Links
 
 - **Website:** [Coming Soon]
-- **Documentation:** [Wiki](https://github.com/YOUR_USERNAME/bai-plus-plus/wiki)
-- **Releases:** [Download Here](https://github.com/YOUR_USERNAME/bai-plus-plus/releases)
-- **Issues:** [Report Bugs](https://github.com/YOUR_USERNAME/bai-plus-plus/issues)
-- **Discussions:** [Join the Community](https://github.com/YOUR_USERNAME/bai-plus-plus/discussions)
+- **Documentation:** [Wiki](https://github.com/60hzpc/bai-plus-plus/wiki)
+- **Releases:** [Download Here](https://github.com/60hzpc/bai-plus-plus/releases)
+- **Issues:** [Report Bugs](https://github.com/60hzpc/bai-plus-plus/issues)
+- **Discussions:** [Join the Community](https://github.com/60hzpc/bai-plus-plus/discussions)
 
 ---
 
