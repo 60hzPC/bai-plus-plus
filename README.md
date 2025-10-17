@@ -9,7 +9,7 @@
 
 **Program sa Bisaya, Para sa Bisaya!** 🇵🇭
 
-*Unsa imo programming language bai? ah, bisaya lage, bai++*
+*"Unsa imo programming language bai? ah, bisaya lage, bai++"*
 
 [Download Latest Release](https://github.com/60hzpc/bai-plus-plus/releases/latest) • [View Samples](#sample-programs) • [Documentation](#documentation)
 
