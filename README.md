@@ -9,7 +9,7 @@
 
 **Program sa Bisaya, Para sa Bisaya!** 🇵🇭
 
-*A simple, Bisaya-based programming language for learning and calculations*
+*Unsa imo programming language bai? ah, bisaya lage, bai++*
 
 [Download Latest Release](https://github.com/60hzpc/bai-plus-plus/releases/latest) • [View Samples](#sample-programs) • [Documentation](#documentation)
 
@@ -21,9 +21,7 @@
 
 **Bai++** is a beginner-friendly programming language that uses **Bisaya keywords** to make coding more accessible and fun for Bisaya speakers. Whether you're a student learning programming basics or just want to build simple calculators, Bai++ makes it easy!
 
-### ✨ Why Bai++?
 
-- 🌍 **Learn in your native language** - No need to struggle with English programming terms
 - 🎓 **Perfect for beginners** - Simple syntax, easy to understand
 - 💻 **No installation hassles** - Download and run immediately
 - 🆓 **Completely free** - Open source and available to everyone
